@@ -6,7 +6,7 @@ Hi guys, everything all right? I'm [Ian](https://www.linkedin.com/in/ian-ramos/)
 I've always been fascinated by technology, and when I realized the impact it can have on other people's lives through a good product or service, it became clear what my journey would be. <br />
 So, I decided to go deeper into it daily to the point of being able to solve the problems that society constantly challenges us. <br />
 
-<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/343cb53c87e313181d99248d3071bc77.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/343cb53c87e313181d99248d3071bc77.gif" width="480" height="320" />
 
 <br/>
 
