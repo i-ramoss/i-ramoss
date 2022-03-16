@@ -35,7 +35,7 @@ So, I decided to go deeper into it daily to the point of being able to solve the
 
  <div  align="center">
  <a href="https://github.com/i-ramoss"></a>
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=i-ramoss&hide_border=true&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/> &nbsp;
+     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=i-ramoss&hide_border=true&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/> &nbsp;
 <!--      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=i-ramoss&hide_border=true&theme=blueberry&show_icons=true"/> -->
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-ramoss&layout=compact&count_private=true&hide_border=true&theme=blueberry&show_icons=true">
+     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-ramoss&layout=compact&count_private=true&hide_border=true&theme=blueberry&show_icons=true">
 </div>
