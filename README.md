@@ -1,6 +1,3 @@
-## what's up?! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-
 Hi guys, everything all right? I'm [Ian](https://www.linkedin.com/in/ian-ramos/).
 
 I've always been fascinated by technology, and when I realized the impact it can have on other people's lives through a good product or service, it became clear what my journey would be. <br />
