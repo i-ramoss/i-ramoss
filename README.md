@@ -8,7 +8,7 @@ So, I decided to go deeper into it daily to the point of being able to solve the
 <br/>
 
 - 🚀 I’m a volunteer mentor at Rocketseat's Space Squad.
-- 💭 I look forward to learning about: Python, JavaScript, React, Clean Code, Clean Architecture.
+- 💭 I look forward to learning about: JavaScript, NodeJS, React, Clean Code, Clean Architecture.
 - 🤙 I love sharing knowledge, meeting and helping new people.
 - 📫 You cant find my contact on Linkedin: [![Linkedin Badge](https://img.shields.io/badge/-IanRamos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/ian-ramos/)](https://www.linkedin.com/in/ian-ramos/) 
 
